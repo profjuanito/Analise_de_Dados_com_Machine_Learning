@@ -10,6 +10,12 @@ Basico:
 
 1. Regressão Linear: A primeira aula esta focalizada nos conceitos básico de uma análise de regressão linear (método de mínimos quadrados, algebra matricial, etc). Os cálculos foram feitos usando ferramentas básicas como **excel** e o software **R**, posteriormente se faz uma comparação com o programa **SPSS**
 
+1. ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear.
+    1.dados: alunos.xlsx
+2. ajuste limear nomalidade.R -> gráfico de dispersão de dados em arquivos .txt fazendo ajuste e teste de normalidade.
+    1. dados: dados1.txt
+ajuste linear e estatistica -> gráfico de dispersão de dados em arquivos .txt fazendo ajuste um teste estatístico.
+    1. dados: dados1.txt
 ---
 ---
 
