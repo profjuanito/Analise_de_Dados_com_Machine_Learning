@@ -6,8 +6,7 @@ Antes de começar vou compartir algumas das aulas que ministrei na pós de FMU.
 
 Basico:
 
-1. Análise de Regressão Linear: Aula  
-    1. Regressão Linear: A primeira aula esta focalizada nos conceitos básico de uma análise de regressão linear (método de mínimos quadrados, algebra matricial, etc). Os cálculos foram feitos usando ferramentas básicas como **excel** e o software **R**, posteriormente se faz uma comparação com o programa **SPSS**.
+1. Análise de Regressão Linear: A primeira aula esta focalizada nos conceitos básico de uma análise de regressão linear (método de mínimos quadrados, algebra matricial, etc). Os cálculos foram feitos usando ferramentas básicas como **excel** e o software **R**, posteriormente se faz uma comparação com o programa **SPSS**.
     1. ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear.
         1.dados: alunos.xlsx
     1. ajuste limear nomalidade.R -> gráfico de dispersão de dados em arquivos .txt fazendo ajuste e teste de normalidade.
