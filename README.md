@@ -2,7 +2,7 @@
  
 Uma verdadeira análise de dados não esta completa se não conta com uma analise preditiva. Machine Learning fornece as ferramentas para poder fazer uma verdadera análise, isto é. mediante técnicas de aprendizado de máquina podemos ciar algoritmos (aplicações) para poder estabelecer soluçõess diretas a problemas reais numa empresa ou instituição. 
 
-Antes de começar vou compartir algumas das aulas que ministrei na pós de FMU.
+Antes de começar vou compartir algumas das aulas que ministrei na pós de FMU da disciplina de Análise Multivariada.
 
 Basico:
 
