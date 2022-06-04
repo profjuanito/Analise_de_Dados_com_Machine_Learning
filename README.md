@@ -4,18 +4,18 @@ Uma verdadeira análise de dados não esta completa se não conta com uma analis
 
 Antes de começar vou compartir algumas das aulas que ministrei na pós de FMU.
 
-
-
 Basico:
 
-1. Regressão Linear: A primeira aula esta focalizada nos conceitos básico de uma análise de regressão linear (método de mínimos quadrados, algebra matricial, etc). Os cálculos foram feitos usando ferramentas básicas como **excel** e o software **R**, posteriormente se faz uma comparação com o programa **SPSS**
-
-1. ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear.
-    1.dados: alunos.xlsx
-2. ajuste limear nomalidade.R -> gráfico de dispersão de dados em arquivos .txt fazendo ajuste e teste de normalidade.
-    1. dados: dados1.txt
-ajuste linear e estatistica -> gráfico de dispersão de dados em arquivos .txt fazendo ajuste um teste estatístico.
-    1. dados: dados1.txt
+1. Regressão Linear: 
+    1. Regressão Linear: A primeira aula esta focalizada nos conceitos básico de uma análise de regressão linear (método de mínimos quadrados, algebra matricial, etc). Os cálculos foram feitos usando ferramentas básicas como **excel** e o software **R**, posteriormente se faz uma comparação com o programa **SPSS**.
+    1. ajuste linear.R -> gráfico de dispersão de dados de excel fazendo um ajuste linear.
+        1.dados: alunos.xlsx
+    1. ajuste limear nomalidade.R -> gráfico de dispersão de dados em arquivos .txt fazendo ajuste e teste de normalidade.
+        1. dados: dados1.txt
+    1. ajuste linear e estatistica -> gráfico de dispersão de dados em arquivos .txt fazendo ajuste um teste estatístico.
+        1. dados: dados1.txt
+    
+    
 ---
 ---
 
