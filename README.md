@@ -13,7 +13,8 @@ Básico:
         1. dados: dados1.txt
     1. ajuste linear e estatística -> gráfico de dispersão de dados em arquivos .txt fazendo ajuste um teste estatístico.
         1. dados: dados1.txt
-    
+    1. matriz de correlacao -> primeiro gráfico da correlação entre variaveis.
+        1. dados: ind_sicio_econ.xlsx
     
 ---
 ---
