@@ -13,7 +13,7 @@ Básico:
         1. dados: dados1.txt
     1. ajuste linear e estatistica -> gráfico de dispersão de dados em arquivos .txt fazendo ajuste um teste estatístico.
         1. dados: dados1.txt
-    1. matriz de correlacao -> primeiro gráfico da correlação entre variaveis.
+    1. matriz de correlacao -> primeiro gráfico da correlação entre variáveis.
         1. dados: ind_sicio_econ.xlsx
     
 ---
@@ -21,12 +21,12 @@ Básico:
 
 Casos:
 
-Aqui eu apresento alguns casos que estudei, separados em pastas diferentes:
+Aqui são apresentados os casos que foram estudados, separados em pastas diferentes:
 
-1. Estabelece (Calcula) os custos médicos do plano de saúde para uma pessoa baseado em caraterísticas como Idade, índice de masa corporal, sexo, se é fumante ou nao, etc. 
-    1. Custos Médicos:Este o o primeiro e mais simple de todos, pois fue feito usando só técnicas regressão e considerando só duas das variáaveis uma numérica (índice de massa corporal) e uma outra categórica (fumante). Posteriormente será feito com mais variáveis e com outras técnicas mais apropriadas para o estudo de variaveis categóricas com modelo-KNN, cluster, etc.  
-    2. Custos Médicos 2: Se estabelece uma melhora no cálculo anterior, onde para o estudo da variável catergórica se utiliza o modelo-KNN
-    3. Custos Médicos 3: Melhora feita, usando masi variaveis independientes e diferentes modelos.
+1. Estabelece (Calcula) os custos médicos do plano de saúde para uma pessoa baseado em caraterísticas como Idade, Índice de masa corporal, Sexo, se é fumante ou não, etc. 
+    1. Custos Médicos RL: Este é o primeiro e mais simple de todos, pois fue feito usando só técnicas **Regressão Linear** e considerando só duas das variáveis uma numérica (índice de massa corporal) e uma outra categórica (fumante). Posteriormente será feito com mais variáveis e com outras técnicas mais apropriadas para o estudo de variaveis categóricas como o **modelo-KNN**, etc.  
+    2. Custos Médicos K-NN: Se estabelece uma comparação entre o cálculo anterior (**Regressão Linear**) e o **modelo-KNN**
+    3. Custos Médicos 3: Melhora feita, usando mais variáveis independientes e diferentes modelos.
     4.
 2. 
 
