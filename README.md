@@ -18,6 +18,7 @@ Básico:
            1. dados: dados1.txt
        1. matriz de correlacao -> primeiro gráfico da correlação entre variáveis.
            1. dados: ind_sicio_econ.xlsx
+    1. Com SPSS:
     
 ---
 ---
