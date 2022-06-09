@@ -28,5 +28,5 @@ Aqui são apresentados os casos que foram estudados, separados em pastas diferen
     2. Custos Médicos K-NN: Se estabelece uma comparação entre o cálculo anterior (**Regressão Linear**) e o **modelo-KNN** (usado como regressão e não como classificador)
     3. Custos Médicos 3: Melhora feita, usando mais variáveis independientes e diferentes modelos.
     4.
-2. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN*
+2. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN**
 
