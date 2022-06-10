@@ -6,7 +6,7 @@ Antes de começar vou compartir algumas das aulas que ministrei na pós de engen
 
 Básico:
 
-1. Análise de Regressão Linear: A primeira aula esta focalizada nos conceitos básico de uma análise de regressão linear (método de mínimos quadrados, algebra matricial, etc). Os cálculos foram feitos usando ferramentas básicas como **Excel** e o software **R**, posteriormente se faz uma comparação com o programa **SPSS**
+1. Análise de Regressão Linear: A primeira aula esta focalizada nos conceitos básico de uma análise de regressão linear (método de mínimos quadrados, algebra matricial, etc). Os cálculos foram feitos usando ferramentas básicas como **Excel** e o software **R**, posteriormente se faz uma comparação com o programa **SPSS**.
     1. Com Python:
        1. Clasificacao.ipynb -> modelo de K-NN de clasificação  
     1. Com R:
