@@ -33,7 +33,7 @@ Aquí são apresentados os casos que foram estudados, separados em pastas difere
     3. Custos Médicos Arvores decisao: Se estabelece uma comparação entre os cálculos anteriores (**Regressão Linear**), o **modelo-KNN** (usado como regressão e não como classificador) e o modelo de **Árvores de Decisão** (usado como regressão)
     4. Custos Médicos 4: Melhora feita, usando mais variáveis independientes e comparando os diferentes modelos.
 
-2. **Classificação Fumante (Custos Médicos):** Mostra-se a técnica classificação usando os modelos **Regressao Logistica**, **K-NN** e **Árvores de Decisão**
+2. **Classificação Fumante (Custos Médicos):** Mostra-se a técnica classificação usando os modelos **Regressão Logística**, **K-NN** e **Árvores de Decisão**
 3. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN**
 4. **?**
 
