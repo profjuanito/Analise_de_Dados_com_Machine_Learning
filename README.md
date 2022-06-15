@@ -27,13 +27,14 @@ Casos:
 
 Aquí são apresentados os casos que foram estudados, separados em pastas diferentes:
 
-1. **Custos Médicos:** Calcula-se os custos médicos do plano de saúde para uma pessoa baseado em caraterísticas como Idade, Índice de masa corporal, Sexo, se é fumante ou não, etc. 
+1. **Custos Médicos:** Calcula-se os custos médicos do plano de saúde para uma pessoa baseado em caraterísticas como Idade, Índice de massa corporal, Sexo, se é fumante ou não, etc. 
     1. Custos Médicos RLinear: Este é o primeiro e mais simple de todos, pois fue feito usando só técnicas **Regressão Linear** e considerando só duas das variáveis uma numérica (índice de massa corporal) e uma outra categórica (fumante). Posteriormente será feito com mais variáveis e com outras técnicas mais apropriadas para o estudo de variáveis categóricas como o **modelo-KNN**, etc.  
     2. Custos Médicos K-NN: Se estabelece uma comparação entre o cálculo anterior (**Regressão Linear**) e o **modelo-KNN** (usado como regressão e não como classificador)
     3. Custos Médicos Arvores decisao: Se estabelece uma comparação entre os cálculos anteriores (**Regressão Linear**), o **modelo-KNN** (usado como regressão e não como classificador) e o modelo de **Árvores de Decisão** (usado como regressão)
     4. Custos Médicos 4: Melhora feita, usando mais variáveis independientes e comparando os diferentes modelos.
 
 2. **Classificação Fumante Modelos (Custos Médicos):** Mostra-se a técnica classificação usando os modelos **Regressão Logística**, **K-NN** e **Árvores de Decisão**.
-3. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN**
-4. **?**
+    1. Classificacao Fumante
+4. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN**
+5. **?**
 
