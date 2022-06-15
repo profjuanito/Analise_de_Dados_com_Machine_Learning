@@ -4,7 +4,7 @@ Uma verdadeira análise de dados não esta completa se não conta com uma análi
 
 Antes de começar vou compartir algumas das aulas que ministrei na pós de engenharia na FMU na disciplina de Análise Multivariada e Séries Temporais.
 
-Básico:
+**Básico**:
 
 1. Análise de Regressão Linear: A primeira aula esta focalizada nos conceitos básico de uma análise de regressão linear (método de mínimos quadrados, algebra matricial, etc). Os cálculos foram feitos usando ferramentas básicas como **Excel** e o software **R**, posteriormente se faz uma comparação com o programa **SPSS**.
     1. Com Python:
@@ -23,7 +23,7 @@ Básico:
 ---
 ---
 
-Casos:
+**Casos:**
 
 Aquí são apresentados os casos que foram estudados, separados em pastas diferentes:
 
