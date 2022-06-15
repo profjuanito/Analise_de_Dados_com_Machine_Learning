@@ -34,7 +34,11 @@ Aquí são apresentados os casos que foram estudados, separados em pastas difere
     4. Custos Médicos 4: Melhora feita, usando mais variáveis independientes e comparando os diferentes modelos.
 
 2. **Classificação Fumante Modelos (Custos Médicos):** Mostra-se a técnica classificação usando os modelos **Regressão Logística**, **K-NN** e **Árvores de Decisão**.
-    1. Classificacao Fumante
+    1. Classificacao Fumante RLogistica:
+    2. Classificação Fumante Modelos (Custos Médicos): Mostra-se a técnica classificação usando os modelos **Regressão Logística**, **K-NN** e **Árvores de Decisão**.
+    3. ?
 4. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN**
-5. **?**
+    1. Flores KNN:
+    2. ? 
+6. **?**
 
