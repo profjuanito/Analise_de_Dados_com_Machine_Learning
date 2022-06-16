@@ -42,5 +42,5 @@ Aquí são apresentados os casos que foram estudados, separados em pastas difere
 4. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN**
     1. Tipo de Flores KNN:
     2. ? 
-6. **?**
+6. **Churn**  Calcula-se a possibilidade de um cliente desistir de um serviço ou de um produto baseado no histórico de todo um conjunto de elementos. 
 
