@@ -19,7 +19,7 @@ Antes de começar vou compartir algumas das aulas que ministrei na pós de engen
        1. matriz de correlacao -> primeiro gráfico da correlação entre variáveis.
            1. dados: ind_sicio_econ.xlsx
     1. Com Excel: 
-        1. Exemplo 6tab.xlsx -> Regressão Linear Multipla (feito na aula: Analise de Regressão) relacionada com quantidade vendida de um produto em função do preço e do investimento feito.
+        1. Exemplo 6tab.xlsx -> Regressão Linear Múltipla (feito na aula: Análise de Regressão) relacionada com quantidade vendida de um produto em função do preço e do investimento feito.
     1. Com SPSS:
     
 ---
