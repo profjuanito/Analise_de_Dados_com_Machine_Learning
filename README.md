@@ -35,13 +35,14 @@ Aquí são apresentados os casos que foram estudados, separados em pastas difere
     3. Custos Médicos Arvores Decisao: Se estabelece uma comparação entre os cálculos anteriores (**Regressão Linear**), o **modelo-KNN** (usado como regressão e não como classificador) e o modelo de **Árvores de Decisão** (usado como regressão)
     4. Custos Médicos RLinear Multipla: Melhora feita, usando mais variáveis independientes, foi incluída a variável **Idade**.
     5. Custos Médicos Modelos +Variaveis: Se estabelece uma comparação entre os cálculos de todos os modelos, com a inclusão da variável **Idade**.
-    6. Custos Médicos combinacao Modelos:
+    6. Custos Médicos combinacao Modelos: 
     7. Custos Médicos combinacao Modelos +Variaveis: 
 
 1. **Classificação Fumante Modelos (Custos Médicos):** Mostra-se a técnica classificação usando os modelos **Regressão Logística**, **K-NN** e **Árvores de Decisão** e considerando caraterísticas como Idade, Índice de massa corporal, Sexo, custo, etc
     1. Classificacao Fumante RLogistica: Foi feita uma Regressão logística para a classificação (Fumante ou Não) considerando uma função linear para a região de separação das clases. 
     2. Classificação Fumante Modelos (Custos Médicos): Compara-se a técnica classificação de uma variável categórica (Fumante) usando os modelos **Regressão Logística**, **K-NN** e **Árvores de Decisão**.
     3. Classificação Fumante Modelos +Variaveis (Custos Médicos): Compara-se a técnica classificação de uma variável categórica (Fumante) usando os modelos **Regressão Logística**, **K-NN** e **Árvores de Decisão** e com a inclusão da variável **Idade**.
+    4. Classificação Fumante Combinacao Modelos: (Custos Médicos):Se estabelece uma combinaçãao entre os modelos (**Regressão Logísticar**), o **modelo-KNN** (usado como classificador) e o modelo de **Árvores de Decisão** (usado como classificador)
     
 1. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN**
     1. Tipo de Flores KNN:
