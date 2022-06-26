@@ -57,7 +57,7 @@ Aquí são apresentados os casos que foram estudados, separados em pastas difere
 1. **Churn:**  Calcula-se a possibilidade de um cliente desistir de um serviço ou de um produto baseado no histórico de todo um conjunto de elementos. 
     1. Churn: Para este caso temos que determinar (clasificação de clientes) se os clientes vao entrar em **Churn** considerando uma base de dados com muitas caraterísticas (variáveis). Foram utilizados diferentes modelos de Machine Learning (**Regressão Logística**, **K-NN**, **Árvores de Decisão**, **Baggins** e **Random Forest**) 
     2. Fraude:
-1. Sobrevivientes:
+1. **Sobrevivientes:** (Caso de competição no site do Kaggle) A ideia é determinar se con os dados que se tem dos passageiros (891 dados: com diferentes características, em total 12) determinar se um determinado passageiro sobreviviu ou não.
 
 3. **Não Supervisonados**
     1. K-Mean
