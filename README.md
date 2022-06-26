@@ -55,7 +55,7 @@ Aquí são apresentados os casos que foram estudados, separados em pastas difere
     1. Tipo de Flores KNN:
     2. ? 
 1. **Churn:**  Calcula-se a possibilidade de um cliente desistir de um serviço ou de um produto baseado no histórico de todo um conjunto de elementos. 
-    1. Churn: 
+    1. Churn: Para este caso temos que determinar (clasificação de clientes) se os clientes vao entrar em **Churn** considerando uma base de dados com muitas caraterísticas (variáveis). Foram utilizados diferentes modelos de mMachine Learning
     2. Fraude:
 3. **Não Supervisonados**
     1. K-Mean
