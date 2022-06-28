@@ -51,7 +51,7 @@ Aquí são apresentados os casos que foram estudados, separados em pastas difere
     4. Classificação Fumante Combinacao Modelos: (Custos Médicos):Se estabelece uma combinaçãao entre os modelos (**Regressão Logísticar**), o **modelo-KNN** (usado como classificador) e o modelo de **Árvores de Decisão** (usado como classificador)
     5. Classificação Fumante Combinacao Modelos +Variaveis: (Custos Médicos):Se estabelece uma combinação entre os modelos (**Regressão Logística**), o **modelo-KNN** (usado como classificador) e o modelo de **Árvores de Decisão** (usado como classificador) com a inclusão da variável **Idade**.
     6. Classificação Fumante Baggins e R_Forest: Mostra-se a técnica de Baggins e de Random Forest na clasificação da variável **Fumante**.  
-    7. Classificação Fumante Baggins e R_Forest +Variaveis: Mostra-se a técnica de Baggins e de Random Forest na clasificação da variável **Fumante** com a inclusão da variável **Idade**.
+    7. Classificação Fumante Baggins e R_Forest +Variaveis: Mostra-se a técnica de **Baggins** e de **Random Forest** na clasificação da variável **Fumante** com a inclusão da variável **Idade**.
     
 1. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN**
     1. Tipo de Flores KNN:
