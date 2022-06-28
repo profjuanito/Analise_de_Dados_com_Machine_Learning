@@ -1,6 +1,6 @@
 # Análise de Dados com Machine Learning
  
-Em muitos casos uma verdadeira análise de dados não esta completa se não conta com uma análise preditiva. Machine Learning fornece as ferramentas para poder fazer uma verdadera análise, isto é, mediante técnicas de aprendizado de máquina podemos ciar algoritmos (aplicações) para poder estabelecer soluções diretas a problemas reais numa empresa ou instituição. 
+Em muitos casos uma verdadeira análise de dados não esta completa se não conta com uma análise preditiva. Machine Learning fornece as ferramentas para poder fazer uma verdadera análise, isto é, mediante técnicas de aprendizado de máquina podemos ciar algoritmos (aplicações) para poder entender ou estabelecer soluções diretas a problemas reais numa empresa ou instituição. 
 
 ---
 ---
