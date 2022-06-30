@@ -33,7 +33,7 @@ Antes de começar vou compartir algumas das aulas que ministrei na pós de engen
 
 **Casos:**
 
-Aquí são apresentados os casos que foram estudados, separados em pastas diferentes:
+Aquí são apresentados os casos que foram estudados, separados em \_pastas diferentes\_:
 
 1. **Custos Médicos:** Calcula-se os custos médicos do plano de saúde para uma pessoa baseado em caraterísticas como Idade, Índice de massa corporal, Sexo, se é fumante ou não, etc. 
     1. Custos Médicos RLinear: Este é o primeiro e mais simple de todos, pois fue feito usando só técnicas **Regressão Linear** e considerando só duas das variáveis uma numérica (índice de massa corporal) e uma outra categórica (fumante). Posteriormente será feito com mais variáveis e com outras técnicas mais apropriadas para o estudo de variáveis categóricas como o **modelo-KNN**, etc.  
