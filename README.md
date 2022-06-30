@@ -39,10 +39,14 @@ Aquí são apresentados os casos que foram estudados, separados em \_pastas dife
     1. Custos Médicos RLinear: Este é o primeiro e mais simple de todos, pois fue feito usando só técnicas **Regressão Linear** e considerando só duas das variáveis uma numérica (índice de massa corporal) e uma outra categórica (fumante). Posteriormente será feito com mais variáveis e com outras técnicas mais apropriadas para o estudo de variáveis categóricas como o **modelo-KNN**, etc.  
     2. Custos Médicos K-NN: Se estabelece uma comparação entre o cálculo anterior (**Regressão Linear**) e o **modelo-KNN** (usado como regressão e não como classificador)
     3. Custos Médicos Arvores Decisao: Se estabelece uma comparação entre os cálculos anteriores (**Regressão Linear**), o **modelo-KNN** (usado como regressão e não como classificador) e o modelo de **Árvores de Decisão** (usado como regressão)
-    4. \_Custos Médicos RLinear Multipla\_: Melhora feita, usando mais variáveis independientes, foi incluída a variável **Idade**. Como complementos foi feito um ajuste polinomial. 
+    4. Custos Médicos RLinear Multipla: Melhora feita, usando mais variáveis independientes, foi incluída só uma variável a variável **Idade**.
     5. Custos Médicos Modelos +Variaveis: Se estabelece uma comparação entre os cálculos de todos os modelos, com a inclusão da variável **Idade**.
     6. Custos Médicos combinacao Modelos: Se estabelece uma combinaçãao entre os modelos (**Regressão Linear**), o **modelo-KNN** (usado como regressor) e o modelo de **Árvores de Decisão** (usado como regressor)
     7. Custos Médicos combinacao Modelos +Variaveis: Se estabelece uma combinaçãao entre os modelos (**Regressão Linear**), o **modelo-KNN** (usado como regressor) e o modelo de **Árvores de Decisão** (usado como regressor) com a inclusão de mais uma variável, **Idade**.
+    8. Regressao com PyCaret: Aqui contamos com a ajuda da biblioteca Pycaret que permite fazer uma análise automatizada. esta biblioteca permite ter uma visão geral dos modelos e dos melhores parâmetros que podem dar o melhor resultado.  
+    9. Custos Médicos RL Multipla Polinomial: Se estabelece a **Regressão Linear Múltipla**  e **Regressão Polinomial** usando todas as possiveis, mas ja tratadas com base na análise com PyCaret. 
+
+
 
 1. **Classificação Fumante Modelos (Custos Médicos):** Mostra-se a técnica classificação usando os modelos **Regressão Logística**, **K-NN** e **Árvores de Decisão** e considerando caraterísticas como Idade, Índice de massa corporal, Sexo, custo, etc
     1. Classificacao Fumante RLogistica: Foi feita uma Regressão logística para a classificação (Fumante ou Não) considerando uma função linear para a região de separação das clases. 
