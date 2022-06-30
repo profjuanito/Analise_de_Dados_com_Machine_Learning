@@ -39,10 +39,10 @@ Aquí são apresentados os casos que foram estudados, separados em pastas difere
     1. Custos Médicos RLinear: Este é o primeiro e mais simple de todos, pois fue feito usando só técnicas **Regressão Linear** e considerando só duas das variáveis uma numérica (índice de massa corporal) e uma outra categórica (fumante). Posteriormente será feito com mais variáveis e com outras técnicas mais apropriadas para o estudo de variáveis categóricas como o **modelo-KNN**, etc.  
     2. Custos Médicos K-NN: Se estabelece uma comparação entre o cálculo anterior (**Regressão Linear**) e o **modelo-KNN** (usado como regressão e não como classificador)
     3. Custos Médicos Arvores Decisao: Se estabelece uma comparação entre os cálculos anteriores (**Regressão Linear**), o **modelo-KNN** (usado como regressão e não como classificador) e o modelo de **Árvores de Decisão** (usado como regressão)
-    4. Custos Médicos RLinear Multipla: Melhora feita, usando mais variáveis independientes, foi incluída a variável **Idade**.
+    4. Custos Médicos RLinear Multipla: Melhora feita, usando mais variáveis independientes, foi incluída a variável **Idade**. Como complementos foi feito um ajuste polinomial. 
     5. Custos Médicos Modelos +Variaveis: Se estabelece uma comparação entre os cálculos de todos os modelos, com a inclusão da variável **Idade**.
-    6. Custos Médicos combinacao Modelos: Se estabelece uma combinaçãao entre os modelos (**Regressão Linearr**), o **modelo-KNN** (usado como regressor) e o modelo de **Árvores de Decisão** (usado como regressor)
-    7. Custos Médicos combinacao Modelos +Variaveis: Se estabelece uma combinaçãao entre os modelos (**Regressão Linearr**), o **modelo-KNN** (usado como regressor) e o modelo de **Árvores de Decisão** (usado como regressor) com a inclusão de mais uma variável, **Idade**.
+    6. Custos Médicos combinacao Modelos: Se estabelece uma combinaçãao entre os modelos (**Regressão Linear**), o **modelo-KNN** (usado como regressor) e o modelo de **Árvores de Decisão** (usado como regressor)
+    7. Custos Médicos combinacao Modelos +Variaveis: Se estabelece uma combinaçãao entre os modelos (**Regressão Linear**), o **modelo-KNN** (usado como regressor) e o modelo de **Árvores de Decisão** (usado como regressor) com a inclusão de mais uma variável, **Idade**.
 
 1. **Classificação Fumante Modelos (Custos Médicos):** Mostra-se a técnica classificação usando os modelos **Regressão Logística**, **K-NN** e **Árvores de Decisão** e considerando caraterísticas como Idade, Índice de massa corporal, Sexo, custo, etc
     1. Classificacao Fumante RLogistica: Foi feita uma Regressão logística para a classificação (Fumante ou Não) considerando uma função linear para a região de separação das clases. 
