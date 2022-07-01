@@ -43,8 +43,9 @@ Aquí são apresentados os casos que foram estudados, separados em \_pastas dife
     5. Custos Médicos Modelos +Variaveis: Se estabelece uma comparação entre os cálculos de todos os modelos, com a inclusão da variável **Idade**.
     6. Custos Médicos combinacao Modelos: Se estabelece uma combinaçãao entre os modelos (**Regressão Linear**), o **modelo-KNN** (usado como regressor) e o modelo de **Árvores de Decisão** (usado como regressor)
     7. Custos Médicos combinacao Modelos +Variaveis: Se estabelece uma combinaçãao entre os modelos (**Regressão Linear**), o **modelo-KNN** (usado como regressor) e o modelo de **Árvores de Decisão** (usado como regressor) com a inclusão de mais uma variável, **Idade**.
-    8. Regressao com PyCaret: Aqui contamos com a ajuda da biblioteca Pycaret que permite fazer uma análise automatizada. esta biblioteca permite ter uma visão geral dos modelos e dos melhores parâmetros que podem dar o melhor resultado.  
-    9. Custos Médicos RL Multipla Polinomial: Se estabelece a **Regressão Linear Múltipla**  e **Regressão Polinomial** usando todas as possiveis, mas ja tratadas com base na análise com PyCaret. 
+    8. Regressao com PyCaret: Aqui contamos com a ajuda da biblioteca Pycaret que permite fazer uma análise automatizada. Esta biblioteca permite ter uma visão geral dos modelos e dos melhores parâmetros que podem dar o melhor resultado.  
+    9. Custos Médicos RL Multipla Polinomial: Se estabelece a **Regressão Linear Múltipla**  e **Regressão Polinomial** usando todas as possíveis, mas ja tratadas com base na análise com PyCaret. 
+    10. Custos Médicos - Melhores Modelos:
 
 
 
@@ -56,6 +57,12 @@ Aquí são apresentados os casos que foram estudados, separados em \_pastas dife
     5. Classificação Fumante Combinacao Modelos +Variaveis: (Custos Médicos):Se estabelece uma combinação entre os modelos (**Regressão Logística**), o **modelo-KNN** (usado como classificador) e o modelo de **Árvores de Decisão** (usado como classificador) com a inclusão da variável **Idade**.
     6. Classificação Fumante Baggins e R_Forest: Mostra-se a técnica de Baggins e de Random Forest na clasificação da variável **Fumante**.  
     7. Classificação Fumante Baggins e R_Forest +Variaveis: Mostra-se a técnica de **Baggins** e de **Random Forest** na clasificação da variável **Fumante** com a inclusão da variável **Idade**.
+    8. Tunagem de Hiperparametros: Se faz uma análise para dos parâmetros para determinar quais poderiam ser os melhores parâmetros para cada modelo, a fim de ter os melhores resultados   
+    9. Classificacao com PyCaret: Com ajuda da bilblioteca PyCaret se faz uma análise automatizada. Se obtiveram bons resultados, mas tem que ser melhorado com uma análise mais detalhada das variáveis a utilizar. 
+    10. Classificação Fumante - Melhores Modelos:
+    
+    
+    
     
 1. **Classificação de Flores (Iris):** Mostra-se a técnica classificação usando o **modelo de K-NN**
     1. Tipo de Flores KNN:
