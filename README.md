@@ -69,7 +69,7 @@ Aquí são apresentados os casos que foram estudados, separados em \_pastas dife
     2. ? 
 1. **Churn:**  Calcula-se a possibilidade de um cliente desistir de um serviço ou de um produto baseado no histórico de todo um conjunto de elementos. 
     1. Dados Churn: (Primeiro teste de análise feito sob direção da FLAI) Para este caso temos que determinar (clasificação de clientes) se os clientes vao entrar em **Churn** considerando uma base de dados com muitas caraterísticas (variáveis). Foram utilizados diferentes modelos de Machine Learning (**Regressão Logística**, **K-NN**, **Árvores de Decisão**, **Baggins** e **Random Forest**)
-    2. Dados Churn Melhorado: (Aplicação de todas as técnicas aprendidas) Foram utilizados diferentes modelos de Machine Learning (**Regressão Logística**, **K-NN**, **Árvores de Decisão**, **Baggins**, **Random Forest** e se faz uma comparação)
+    2. Dados Churn Melhorado: (Aplicação de todas as técnicas aprendidas) Foram utilizados diferentes modelos de Machine Learning (**Regressão Logística**, **K-NN**, **Árvores de Decisão**, **Baggins**, **Random Forest** e se faz uma comparação entre todos eles)
     3. Fraude:
 1. **Sobreviventes:** (Caso do TITANIC - Competição no site do Kaggle) A ideia é determinar se con os dados que se tem dos passageiros (891 dados: com diferentes características, em total 12) determinar se um determinado passageiro sobreviviu ou não.
 
